@@ -1,0 +1,38 @@
+h1 {
+    font-family:   Arial;
+    font-size: 24px; 
+    color: black;  
+    text-align: center; 
+} 
+p  
+{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+ 
+}
+
+#index 
+{
+    background-color: white;
+}
+#movies
+{
+background-color: red;
+
+}
+#m
+{
+    background-color: white;
+    font-size: 50px;
+    font-family: Arial BLACK;  
+}
+dt
+{
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+dd
+{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
